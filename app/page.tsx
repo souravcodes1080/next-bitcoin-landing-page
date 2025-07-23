@@ -5,7 +5,6 @@ import Navbar from "@/components/Navbar";
 import CompanyList from "@/components/CompanyList";
 import SecondSection from "@/components/SecondSection";
 import VideoSection from "@/components/VideoSection";
-import Image from "next/image";
 
 export default function Home() {
   return (

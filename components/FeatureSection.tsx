@@ -50,11 +50,11 @@ function FeatureSection() {
       </div>
       <div className="md:mt-20 mt-10">
         <h2 className="md:text-center sm:text-4xl text-3xl md:pb-5 pb-2 font-semibold text-gray-700">
-          Explore to your Bitcoin's desire.
+          Explore to your Bitcoin&apos;s desire.
         </h2>
         <p className="md:w-180 md:text-center md:mx-auto">
-          This is where your Bitcoin gets busy. Earn yield, vote on Mezo's
-          future, add liquidity, and much more, all from one place. It's your
+          This is where your Bitcoin gets busy. Earn yield, vote on Mezo&apos;s
+          future, add liquidity, and much more, all from one place. It&apos;s your
           home base for using Bitcoin, not just holding it.
         </p>
          <Image

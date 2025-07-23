@@ -1,3 +1,4 @@
+import Image from "next/image";
 import React from "react";
 
 function CompanyList() {
@@ -8,316 +9,316 @@ function CompanyList() {
       </h2>
       <div className="overflow-hidden whitespace-nowrap ">
         <div className="marquee-wrapper">
-          {/* Repeated content for seamless loop */}
+          {/* Repeated content for seamless loop */} alt="logo" width={200} height={200}
           <div className="flex gap-20 text-xl px-4">
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/e688e378500a13bb0af889cfc0fac8e48164f09f-48x28.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/7ada480d5dc51964fc0968df3fbc468d679e9d01-70x18.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/dbf1876e5742fea3131215c3b4d2a34408867efc-68x30.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/6d1b65ca57cbcbd853e4fd635aaa352d1a38c2be-71x24.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/6165538764fb0e553aa0b2907bbdb8cf5d30994f-81x32.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/ef13b851e6e4b321a5b5e300a76cd9cf3dda5c8b-67x20.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/e688e378500a13bb0af889cfc0fac8e48164f09f-48x28.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/7ada480d5dc51964fc0968df3fbc468d679e9d01-70x18.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/dbf1876e5742fea3131215c3b4d2a34408867efc-68x30.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/6d1b65ca57cbcbd853e4fd635aaa352d1a38c2be-71x24.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/6165538764fb0e553aa0b2907bbdb8cf5d30994f-81x32.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/ef13b851e6e4b321a5b5e300a76cd9cf3dda5c8b-67x20.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/e688e378500a13bb0af889cfc0fac8e48164f09f-48x28.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/7ada480d5dc51964fc0968df3fbc468d679e9d01-70x18.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/dbf1876e5742fea3131215c3b4d2a34408867efc-68x30.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/6d1b65ca57cbcbd853e4fd635aaa352d1a38c2be-71x24.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/6165538764fb0e553aa0b2907bbdb8cf5d30994f-81x32.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/ef13b851e6e4b321a5b5e300a76cd9cf3dda5c8b-67x20.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/e688e378500a13bb0af889cfc0fac8e48164f09f-48x28.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/7ada480d5dc51964fc0968df3fbc468d679e9d01-70x18.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/dbf1876e5742fea3131215c3b4d2a34408867efc-68x30.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/6d1b65ca57cbcbd853e4fd635aaa352d1a38c2be-71x24.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/6165538764fb0e553aa0b2907bbdb8cf5d30994f-81x32.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/ef13b851e6e4b321a5b5e300a76cd9cf3dda5c8b-67x20.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/e688e378500a13bb0af889cfc0fac8e48164f09f-48x28.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/7ada480d5dc51964fc0968df3fbc468d679e9d01-70x18.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/dbf1876e5742fea3131215c3b4d2a34408867efc-68x30.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/6d1b65ca57cbcbd853e4fd635aaa352d1a38c2be-71x24.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/6165538764fb0e553aa0b2907bbdb8cf5d30994f-81x32.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/ef13b851e6e4b321a5b5e300a76cd9cf3dda5c8b-67x20.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/e688e378500a13bb0af889cfc0fac8e48164f09f-48x28.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/7ada480d5dc51964fc0968df3fbc468d679e9d01-70x18.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/dbf1876e5742fea3131215c3b4d2a34408867efc-68x30.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/6d1b65ca57cbcbd853e4fd635aaa352d1a38c2be-71x24.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/6165538764fb0e553aa0b2907bbdb8cf5d30994f-81x32.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/ef13b851e6e4b321a5b5e300a76cd9cf3dda5c8b-67x20.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/e688e378500a13bb0af889cfc0fac8e48164f09f-48x28.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/7ada480d5dc51964fc0968df3fbc468d679e9d01-70x18.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/dbf1876e5742fea3131215c3b4d2a34408867efc-68x30.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/6d1b65ca57cbcbd853e4fd635aaa352d1a38c2be-71x24.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/6165538764fb0e553aa0b2907bbdb8cf5d30994f-81x32.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/ef13b851e6e4b321a5b5e300a76cd9cf3dda5c8b-67x20.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
 
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/e688e378500a13bb0af889cfc0fac8e48164f09f-48x28.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/7ada480d5dc51964fc0968df3fbc468d679e9d01-70x18.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/dbf1876e5742fea3131215c3b4d2a34408867efc-68x30.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/6d1b65ca57cbcbd853e4fd635aaa352d1a38c2be-71x24.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/6165538764fb0e553aa0b2907bbdb8cf5d30994f-81x32.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/ef13b851e6e4b321a5b5e300a76cd9cf3dda5c8b-67x20.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
 
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/e688e378500a13bb0af889cfc0fac8e48164f09f-48x28.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/7ada480d5dc51964fc0968df3fbc468d679e9d01-70x18.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/dbf1876e5742fea3131215c3b4d2a34408867efc-68x30.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/6d1b65ca57cbcbd853e4fd635aaa352d1a38c2be-71x24.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/6165538764fb0e553aa0b2907bbdb8cf5d30994f-81x32.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/ef13b851e6e4b321a5b5e300a76cd9cf3dda5c8b-67x20.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
 
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/e688e378500a13bb0af889cfc0fac8e48164f09f-48x28.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/7ada480d5dc51964fc0968df3fbc468d679e9d01-70x18.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/dbf1876e5742fea3131215c3b4d2a34408867efc-68x30.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/6d1b65ca57cbcbd853e4fd635aaa352d1a38c2be-71x24.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/6165538764fb0e553aa0b2907bbdb8cf5d30994f-81x32.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
-            <img
+            <Image
               src={
                 "https://cdn.sanity.io/images/9zunswfd/production/ef13b851e6e4b321a5b5e300a76cd9cf3dda5c8b-67x20.svg"
-              }
+              } alt="logo" width={200} height={200}
             />
           </div>
         </div>
       </div>
     </div>
   );
-}
+} 
 
 export default CompanyList;

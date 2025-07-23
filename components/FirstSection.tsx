@@ -74,7 +74,7 @@ function FirstSection() {
                     Stability backed by Bitcoin
                   </h2>
                   <p className="sm:text-lg text-gray-800">
-                    Mezo's native stablecoin, MUSD, is 100% backed by Bitcoin
+                    Mezo&apos;s native stablecoin, MUSD, is 100% backed by Bitcoin
                     reserves and designed to maintain a 1:1 value with the U.S.
                     dollar.
                   </p>
