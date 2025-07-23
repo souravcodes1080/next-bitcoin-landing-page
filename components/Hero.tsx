@@ -4,7 +4,7 @@ import React from 'react'
 function Hero() {
   return (
     <div>
-        <div className=' md:h-[93vh] h-[100vh] sm:bg-[url("/images/hero.png")] sm:bg-contain  sm:bg-no-repeat sm:bg-[top_160px_center] flex items-center md:justify-end md:pb-25 flex-col justify-center bg-gray-100' >
+        <div className=' md:h-[93vh] h-[100vh] bg-[url("/images/hero.png")] sm:bg-contain  sm:bg-no-repeat sm:bg-[top_160px_center] bg-contain bg-no-repeat bg-[right_100px_top_200px] flex items-center md:justify-end md:pb-25 flex-col justify-center bg-gray-100' >
            <Image src={"/images/title.svg"} alt='title' width={700} height={700} className='w-[80%] md:block  hidden' />
            <Image src={"/images/title-mobile.svg"} alt='title' width={700} height={700} className='w-[90%] md:hidden  block' />
            <p className='md:text-4xl mt-6 text-center text-xl'>Bring everyday finance to your Bitcoin.</p>
