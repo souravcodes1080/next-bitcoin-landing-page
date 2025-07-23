@@ -21,7 +21,7 @@ function Navbar() {
           </p>
         </div>
       </div>
-      <div className="absolute top-0 md:top-14 left w-full">
+      <div className="absolute top-0 md:top-10 left w-full">
         <div className="flex items-center justify-between w-[95%] mx-auto pt-7 pb-7 ">
           <Image
             src={"/images/icon.svg"}
