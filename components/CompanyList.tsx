@@ -9,7 +9,6 @@ function CompanyList() {
       </h2>
       <div className="overflow-hidden whitespace-nowrap ">
         <div className="marquee-wrapper">
-          {/* Repeated content for seamless loop */} alt="logo" width={200} height={200}
           <div className="flex gap-20 text-xl px-4">
             <Image
               src={
