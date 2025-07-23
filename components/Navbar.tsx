@@ -1,11 +1,10 @@
 "use client";
 import Image from "next/image";
 import React, { useState } from "react";
-import { FaArrowRight, FaCross, FaGripLines } from "react-icons/fa";
+import { FaArrowRight, FaGripLines } from "react-icons/fa";
 import { IoIosArrowDown } from "react-icons/io";
 import { PiSignInBold } from "react-icons/pi";
 import MobileNavbar from "./MobileNavbar";
-import { FaXmark } from "react-icons/fa6";
 
 function Navbar() {
   const [mobileView, setMobileView] = useState(false);

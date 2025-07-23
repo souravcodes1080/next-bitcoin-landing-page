@@ -1,5 +1,5 @@
 "use client"
-import React, { useRef, useState } from "react";
+import React, { useRef } from "react";
 
 function VideoSection() {
     const videoRef = useRef<HTMLVideoElement>(null)
