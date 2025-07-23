@@ -5,6 +5,8 @@ import Navbar from "@/components/Navbar";
 import CompanyList from "@/components/CompanyList";
 import SecondSection from "@/components/SecondSection";
 import VideoSection from "@/components/VideoSection";
+import Faqs from "@/components/Faqs";
+import Newsletter from "@/components/Newsletter";
 
 export default function Home() {
   return (
@@ -16,6 +18,8 @@ export default function Home() {
       <VideoSection />
       <CompanyList />
       <MazeSection />
+      <Faqs />
+      <Newsletter />
     </>
   );
 }
